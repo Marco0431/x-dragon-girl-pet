@@ -1,0 +1,21 @@
+# Dragon Girl ChatGPT Pet / x小龙娘
+
+> A community-shared dragon girl companion with a transparent ChatGPT Pet v2 sprite sheet, a standalone PNG, and GIF animation previews.
+
+The character has white hair, purple eyes, and a pale purple outfit. Character inspiration is credited to ZipZipPipe. The repository contains an AI-assisted animation adaptation and is not affiliated with or endorsed by OpenAI. No MIT, CC0, or other open license is granted for the character or artwork; original rights and reuse permissions have not been verified. Consult the credits before commercial use, sublicensing, or redistribution.
+
+The sprite sheet is an RGBA PNG, 1536 x 2288 pixels, with 8 columns and 11 rows of 192 x 208 pixel cells. The first nine rows contain animation states; the last two rows contain 16 look directions. A compatible client interprets the cells and timing. GIFs are previews. Adding the shared pet requires a ChatGPT account and client with pet support; repository updates do not automatically update a saved shared-pet snapshot.
+
+## Documentation and sharing
+
+- [Repository and usage guide](https://github.com/Marco0431/x-dragon-girl-pet): Bilingual overview, previews, downloads, and sprite-sheet specifications.
+- [Shared pet page](https://chatgpt.com/s/sharepet_6ad0da6d320081918b1efa57b4632d00): Existing page for adding the pet through a supported ChatGPT client.
+- [Credits and rights](https://github.com/Marco0431/x-dragon-girl-pet/blob/main/CREDITS.md): Character attribution, reference links, and licensing status.
+
+## Assets
+
+- [Pet v2 sprite sheet](https://github.com/Marco0431/x-dragon-girl-pet/blob/main/x-dragon-girl-spritesheet-v2.png): Full transparent animation atlas.
+- [Character PNG](https://github.com/Marco0431/x-dragon-girl-pet/blob/main/x-dragon-girl.png): Standalone transparent character artwork.
+- [Animation-state preview](https://github.com/Marco0431/x-dragon-girl-pet/blob/main/all-states.gif): Preview of the main animation states.
+- [Look-direction preview](https://github.com/Marco0431/x-dragon-girl-pet/blob/main/look-loop.gif): Preview of the 16 look directions.
+- [SHA256 checksums](https://github.com/Marco0431/x-dragon-girl-pet/blob/main/SHA256SUMS): File-integrity values for the published documentation and assets.
