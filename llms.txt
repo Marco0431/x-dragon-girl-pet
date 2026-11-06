@@ -9,8 +9,10 @@ The sprite sheet is an RGBA PNG, 1536 x 2288 pixels, with 8 columns and 11 rows 
 ## Documentation and sharing
 
 - [Repository and usage guide](https://github.com/Marco0431/x-dragon-girl-pet): Bilingual overview, previews, downloads, and sprite-sheet specifications.
+- [Choose a file](https://github.com/Marco0431/x-dragon-girl-pet#选哪个文件--choose-a-file): Pick the shared pet, animation preview, character PNG, or sprite sheet according to your goal.
 - [Shared pet page](https://chatgpt.com/s/sharepet_6ad0da6d320081918b1efa57b4632d00): Existing page for adding the pet through a supported ChatGPT client.
 - [Credits and rights](https://github.com/Marco0431/x-dragon-girl-pet/blob/main/CREDITS.md): Character attribution, reference links, and licensing status.
+- [Help and feedback](https://github.com/Marco0431/x-dragon-girl-pet#常见问题与反馈--help-and-feedback): File-format, download, and saved-snapshot explanations, plus a structured feedback link.
 
 ## Assets
 
