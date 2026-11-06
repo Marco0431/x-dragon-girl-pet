@@ -6,7 +6,18 @@ A white-haired, purple-eyed dragon girl companion for ChatGPT. This repository c
 
 **入口 / Start here:** [添加到 ChatGPT / Add pet](https://chatgpt.com/s/sharepet_6ad0da6d320081918b1efa57b4632d00) · [选择资源 / Choose a file](#选哪个文件--choose-a-file) · [下载与校验 / Downloads](#文件--downloads) · [反馈 / Feedback](https://github.com/Marco0431/x-dragon-girl-pet/issues/new/choose)
 
-![小龙娘：待机、跑动、挥手、跳跃与工作等动画状态预览](all-states.gif)
+<table>
+  <tr>
+    <th>角色立绘 / Character</th>
+    <th>动作预览 / Motion</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="x-dragon-girl.png"><img src="x-dragon-girl.png" width="256" alt="白发紫瞳小龙娘的透明背景立绘 / Transparent dragon girl character artwork"></a></td>
+    <td align="center"><a href="all-states.gif"><img src="all-states.gif" width="256" alt="待机、跑动、挥手和思考等动作的循环预览 / Loop of idle, running, waving, and thinking animations"></a></td>
+  </tr>
+</table>
+
+左侧是透明 PNG，右侧为现有动作 GIF；点击图片可查看原文件。 / Transparent PNG on the left, animation preview on the right. Click either image to open the original.
 
 ## 选哪个文件 / Choose a file
 
@@ -30,6 +41,12 @@ Open the shared pet page above and follow its instructions. A ChatGPT account an
 ## 动画预览
 
 本版优化了待机眨眼和思考动作：延长完整睁眼与闭眼的保持感，缩短半睁眼过渡。
+
+<p align="center">
+  <a href="look-loop.gif"><img src="look-loop.gif" width="256" alt="小龙娘 16 个视线方向的循环预览 / Preview cycling through 16 look directions"></a>
+</p>
+
+**视线方向 / Look directions：** 展示精灵图最后两行的 16 个视线方向。 / The 16 directions stored in the sprite sheet's final two rows.
 
 [查看完整状态预览 / Animation states](all-states.gif) · [查看视线方向预览 / Look directions](look-loop.gif)
 
@@ -62,6 +79,12 @@ On Windows, compare the result with the matching filename in `SHA256SUMS` (lette
 Use raw downloads or the ZIP for a full check: Git may convert text-file line endings on Windows, changing documentation hashes. Image hashes are unaffected by that conversion.
 
 ## 精灵图规格
+
+<p align="center">
+  <a href="x-dragon-girl-spritesheet-v2.png"><img src="x-dragon-girl-spritesheet-v2.png" width="480" alt="8 列 11 行的透明 Pet v2 精灵图，包含动作帧与视线方向 / Transparent Pet v2 sprite sheet with animation frames and look directions in an 8 by 11 grid"></a>
+</p>
+
+**完整布局 / Full layout：** 这里缩小展示，点击可查看原始尺寸；它是供客户端读取的精灵图。 / Shown at a reduced size; click for the original. This atlas is interpreted by a compatible client.
 
 - PNG，RGBA 透明背景
 - 1536 × 2288 像素，8 列 × 11 行
